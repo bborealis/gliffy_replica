@@ -14,6 +14,10 @@
   color : lightgrey;
 }
 
+.icon-bar {
+  background-color : white;
+}
+
 /*.nav {
   padding-top : 10px;
   padding-bottom : 20px;
