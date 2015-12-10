@@ -1,0 +1,28 @@
+#top {
+  background: url(../img/background.jpg) 50% 50% #2d527f;
+  background-size: cover;
+  height : 890px;
+}
+
+
+.nav li img {
+  padding-right : 50px;
+  padding-top : 16px;
+}
+
+.nav li a {
+  color : lightgrey;
+}
+
+/*.nav {
+  padding-top : 10px;
+  padding-bottom : 20px;
+}*/
+
+/*.nav li {
+  padding-right : 25px;
+}*/
+
+#top h1, p {
+  color : white;
+}
