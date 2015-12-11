@@ -1,9 +1,8 @@
 #top {
   background: url(../img/background.jpg) 50% 50% #2d527f;
   background-size: cover;
-  height : 890px;
+  height : 925px;
 }
-
 
 .nav li img {
   padding-right : 50px;
@@ -14,15 +13,39 @@
   color : lightgrey;
 }
 
-/*.nav {
-  padding-top : 10px;
-  padding-bottom : 20px;
-}*/
-
-/*.nav li {
-  padding-right : 25px;
-}*/
+.nav {
+  overflow: hidden;
+}
 
 #top h1, p {
   color : white;
+}
+
+.topspace {
+  padding-top: 88px;
+}
+
+.btn-color {
+  background-color : #254875;
+  color : lightgrey;
+}
+
+.center-button {
+  background-color : #fff;
+  width: 560px;
+  height: 195px;
+  border-radius: 5px;
+  position: relative;
+}
+
+.center-button h1, .center-button p{
+  color : black;
+}
+
+.online {
+  float : left;
+}
+
+.confluence {
+  float : left;
 }
